@@ -13,5 +13,5 @@ I enjoy sports like crossfit and surfing. 🏋‍🏄
 <img src="https://img.shields.io/badge/JAVA-5382a1?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWNAGJIWON&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWNAGJIWON&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWNAGJIWON&layout=compact&theme=tokyonight)
 ![snake gif](https://github.com/HWNAGJIWON/HWNAGJIWON/blob/output/github-contribution-grid-snake.svg)
