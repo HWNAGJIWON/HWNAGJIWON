@@ -1,5 +1,4 @@
-### Hi there 🖐🏻 I am Jiwon   
-- I am Android, Flutter Developer 📱
+### Hi there 🖐🏻 I am Android, Flutter Developer !
 - I graduated from Changwon University majoring in computer engineering. 👩‍💻  
 - I am currently working at <a href="https://www.dsme.co.kr/pub/main/index.do">Daewoo Shipbuilding & Marine Engineering Information and Consulting System.</a>  
 - And I am studying <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> as a hobby.. perhaps for my future 🤔
